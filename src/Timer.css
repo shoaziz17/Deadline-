@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: monospace;
+  color: rgb(157, 255, 0);
+}
+
+.content {
+  width: 70%;
+  margin: 10% auto;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 50px 20px;
+  background-color: rgb(91, 1, 129);
+  border-radius: 10px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 50px;
+  font-size: 60px;
+  font-weight: 700;
+}
+
+.times {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+span * {
+  text-align: center;
+}
+
+.times h4 {
+  font-size: 60px;
+  font-weight: 700;
+}
+
+.times h5 {
+  font-size: 25px;
+  font-weight: 500;
+}
+
+input{
+    color: black;
+}
+
+button{
+    color: black;
+}
